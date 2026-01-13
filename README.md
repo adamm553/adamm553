@@ -16,15 +16,11 @@ I'm currently working at IAV as a Data Scientist. I have 2 years of professional
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/adamm553" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/adam-piątek-090240238/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<a href="https://github.com/adamm553" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamm553&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🚀 Best Projects
 
-<b>Top Repositories</b>
+- **[Otodom Scraper](https://github.com/adamm553/otodom_scrapper)** *Python-based OOP scraper for real estate market analysis.* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4E9A06?style=flat-square)
 
-<div width="100%" align="center"><a href="https://github.com/adamm553/https://github.com/adamm553/otodom_scrapper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamm553&repo=https://github.com/adamm553/otodom_scrapper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adamm553/https://github.com/adamm553/Pokemon_regression_and_classifiaction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamm553&repo=https://github.com/adamm553/Pokemon_regression_and_classifiaction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- **[Pokemon Analysis](https://github.com/adamm553/Pokemon_regression_and_classifiaction)** *Regression and classification models for Pokemon stats.* ![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/adamm553/https://github.com/adamm553/move-helper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamm553&repo=https://github.com/adamm553/move-helper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+- **[Move Helper](https://github.com/adamm553/move-helper)** *Practical tool to assist during relocation processes.* ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
