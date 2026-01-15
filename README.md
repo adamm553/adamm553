@@ -23,4 +23,4 @@ I'm currently working at IAV as a Data Scientist. I have 2 years of professional
 
 - **[Pokemon Analysis](https://github.com/adamm553/Pokemon_regression_and_classifiaction)** *Regression and classification models for Pokemon stats.* ![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 
-- **[Move Helper](https://github.com/adamm553/move-helper)** *Practical tool to assist during relocation processes.* ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **[Credit Card Fraud Detection]([https://github.com/adamm553/move-helper](https://github.com/adamm553/credit_card_fraud_detection))** *Classification of credit card transactions.* ![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
