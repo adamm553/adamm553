@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I'm currently working at IAV as a Data Scientist. I have 2 years of professional experience. I'm also studying at University of Economics in Katowice.
+I'm currently working at IAV as a Data Scientist. I have 2 years of professional experience. I also study at University of Economics in Katowice.
 
 * 🌍  I'm based in Katowice, Poland
 * ✉️  You can contact me at [adampiatek72@gmail.com](mailto:adampiatek72@gmail.com)
