@@ -21,6 +21,6 @@ I currently work at IAV as a Data Scientist. I have 2+ years of professional exp
 
 - **[Otodom Scraper](https://github.com/adamm553/otodom_scrapper)** *Python-based OOP scraper for real estate market analysis.* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4E9A06?style=flat-square)
 
-- **[Pokemon Analysis](https://github.com/adamm553/Pokemon_regression_and_classifiaction)** *Regression and classification models for Pokemon stats.* ![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+- **[Portfolio Analysis](https://github.com/adamm553/Portfolio-Analysis)** *Quantitative evaluation of global ETF strategies and risk-adjusted performance.* ![Finance](https://img.shields.io/badge/-Finance-success?style=flat-square) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
 
 - **[Credit Card Fraud Detection](https://github.com/adamm553/credit_card_fraud_detection)** *Classification of credit card transactions.* ![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
